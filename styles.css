@@ -1,0 +1,43 @@
+.container {
+    margin: auto;
+    border-style: solid;
+    height: 580px;
+    width: 450px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 450px;
+}
+
+i {
+    font-size: 30px;
+}
+
+.header, .icons, .text1, .text2  {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text2  {
+    text-align: justify;
+}
+
+#menu, #save {
+    margin-left: auto;
+}
+
+#space1, #space2, #space3 {
+    margin-left: 5px;
+}
